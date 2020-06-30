@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189247878126",
+    "firebase_url": "https://tiendaapp-359fa.firebaseio.com",
+    "project_id": "tiendaapp-359fa",
+    "storage_bucket": "tiendaapp-359fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189247878126:android:0b47407e6905a33036d4ff",
+        "android_client_info": {
+          "package_name": "com.example.tiendaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189247878126-t5tei2m89nitscikhtekrebq6756ask6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiendaapp",
+            "certificate_hash": "bf4d52d82e41b1656b88ff93a87c71cf4bf967eb"
+          }
+        },
+        {
+          "client_id": "189247878126-m455gi9ttad82oi71os1hl9soc4vfs8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHFJDsmQttG_6WzZzlr-D1tszi9dz5Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189247878126-m455gi9ttad82oi71os1hl9soc4vfs8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
